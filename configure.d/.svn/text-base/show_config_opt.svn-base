@@ -1,6 +1,0 @@
-cat << END
-    --prefix        = $opt_prefix
-    --debug         = $opt_debug 
-    --error         = $opt_error
-    --backtrace     = $opt_backtrace
-END
