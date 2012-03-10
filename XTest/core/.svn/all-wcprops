@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/DW/!svn/ver/117270/atpanel/trunk/logserver/other/Xpipe/XTest/core
+END
+gen_code
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/DW/!svn/ver/117270/atpanel/trunk/logserver/other/Xpipe/XTest/core/gen_code
+END
+gen_makefile
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/DW/!svn/ver/117270/atpanel/trunk/logserver/other/Xpipe/XTest/core/gen_makefile
+END
+xtest.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/DW/!svn/ver/117270/atpanel/trunk/logserver/other/Xpipe/XTest/core/xtest.c
+END
+config.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/DW/!svn/ver/117270/atpanel/trunk/logserver/other/Xpipe/XTest/core/config.h
+END
+xtest.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/DW/!svn/ver/117270/atpanel/trunk/logserver/other/Xpipe/XTest/core/xtest.h
+END

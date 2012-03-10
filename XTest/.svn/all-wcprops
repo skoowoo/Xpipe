@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/DW/!svn/ver/117270/atpanel/trunk/logserver/other/Xpipe/XTest
+END
+xauto
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/DW/!svn/ver/117270/atpanel/trunk/logserver/other/Xpipe/XTest/xauto
+END
+conf
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/DW/!svn/ver/117270/atpanel/trunk/logserver/other/Xpipe/XTest/conf
+END
+config.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/DW/!svn/ver/117270/atpanel/trunk/logserver/other/Xpipe/XTest/config.h
+END
+uc_test_mem_pool.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/DW/!svn/ver/117270/atpanel/trunk/logserver/other/Xpipe/XTest/uc_test_mem_pool.c
+END

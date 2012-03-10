@@ -1,0 +1,69 @@
+CC="gcc -Wall -pipe"
+if [ $opt_debug = yes ] ; then
+	CC=$CC" -ggdb -DDEBUG"
+fi
+
+if [ $opt_error = yes ] ; then
+	CC=$CC" -Werror"
+fi
+
+TCC="gcc -ggdb -Wall"
+
+LINK=gcc
+
+TEST_HDR="XTest/core/xtest.h"
+TEST_SRC=`ls XTest | grep uc_ | grep .c | sed 's/^/XTest\/&/g' | \
+		 sed ':t;N;s/\n/\ /;b t'`
+TEST_SRC=$TEST_SRC" XTest/core/xtest.c"
+
+TEST_OBJ=`sed ':t;N;s/\n/\ /;b t' configure.d/sources | sed 's/\.c/.o/g' | \
+	sed 's/src\/xpipe\.o/src\/test_xpipe\.o/g'`
+
+
+CORE_HDR="src/config.h src/system.h"
+CORE_OBJ=`sed ':t;N;s/\n/\ /;b t' configure.d/sources | sed 's/\.c/.o/g'`
+
+XPE_MAKEFILE=Makefile
+
+echo "Start to create Makefile..."
+
+
+# Makefile
+cat << END 				> $XPE_MAKEFILE
+
+default : $CORE_OBJ
+	$LINK $CORE_OBJ -o src/xpipe
+
+END
+
+cat configure.d/sources | while read line
+do
+	obj=`echo $line | sed 's/\.c/\.o/'`
+cat << END 				>> $XPE_MAKEFILE
+$obj : $CORE_HDR $line
+	$CC -c $line \\
+		-o $obj
+
+END
+
+done
+
+cat << END 				>> $XPE_MAKEFILE
+install :
+	mkdir -p $opt_prefix/conf
+	mkdir -p $opt_prefix/log
+	mkdir -p $opt_prefix/bin
+	touch $opt_prefix/log/xpipe.log
+	cp -rf conf/* $opt_prefix/conf
+	cp -f src/xpipe $opt_prefix/bin
+
+clean :
+	rm -f src/*.o src/net/*.o src/xpipe XTest/xtest
+
+src/test_xpipe.o : $CORE_HDR src/xpipe.c
+	$TCC -DUNIT_TEST -c src/xpipe.c -o src/test_xpipe.o
+
+test : $TEST_SRC $TEST_HDR $TEST_OBJ $CORE_HDR
+	$TCC -DNEW_CONFIG -o XTest/xtest $TEST_SRC $TEST_OBJ
+
+END

@@ -1,0 +1,21 @@
+config_file=src/config.h
+
+cat << END          > $config_file         
+/**
+ * Copyright (c) XiaoWei Wu
+ */
+
+#ifndef __CONFIG_H__
+#define __CONFIG_H__
+
+
+#define XPIPE_VERSION   $xpipe_version
+
+#define xpipe_install_dir_path "$opt_prefix"
+#define default_logger_full_path "$opt_prefix/log/xpipe.log"
+#define default_conf_file_full_path "$opt_prefix/conf/xpipe.conf"
+#define default_pid_file_full_path "$opt_prefix/log/xpipe.pid"
+
+#endif /* __CONFIG_H__ */
+
+END

@@ -1,0 +1,50 @@
+#!/bin/sh
+
+# Copyright (C) Xiaowei Wu
+
+xpipe_version=0.1.0
+
+opt_help=no
+opt_debug=no
+opt_error=no
+opt_backtrace=no
+opt_prefix=`pwd`
+
+for arg in "$@"
+do
+	case "$arg" in
+	-*=*)   value=`echo "$arg" | sed -e 's/[-_a-zA-Z0-9]*=//'`  ;;
+    *)      value="" ;;
+	esac
+
+
+	case "$arg" in
+	--help) 		opt_help=yes;;
+    --debug)        opt_debug=yes;;        
+    --error)        opt_error=yes;; 
+    --backtrace)    opt_backtrace=yes;; 
+	--prefix=*) 	opt_prefix=$value;;
+    *)  	        echo "$0: error: invalid arg \"$arg\"" ;;
+	esac
+done
+
+if [ $opt_help = yes ] ; then
+cat << END
+
+    --help          - Show help info
+    --debug         - Open debug flag for compiling the sources
+    --error         -
+    --backtrace     -
+    --prefix=PATH   - Appoint the install path
+
+END
+
+	exit 1
+fi
+
+
+. configure.d/show_config_opt
+. configure.d/create_makefile
+. configure.d/create_config
+
+

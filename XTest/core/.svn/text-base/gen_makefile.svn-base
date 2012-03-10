@@ -1,0 +1,25 @@
+CC=gcc
+FLAGS=-DNEW_CONFIG
+
+HEADERS="core/xtest.h core/config.h config.h"
+SOURCE="core/xtest.c"
+EXE=xtest
+
+
+MAKEFILE=Makefile
+
+echo "Start to create Makefile..."
+
+# Makefile
+cat << END 				> $MAKEFILE
+
+default : $SOURCE $HEADERS $UC_SRC
+	$CC $SOURCE $UC_SRC -o $EXE $FLAGS
+
+test:
+	./$EXE
+
+clean :
+	rm -rf $EXE
+
+END

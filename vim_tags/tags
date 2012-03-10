@@ -1,0 +1,456 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+$	/home/skoo/YUNIO/Xpipe/src/logger.o	/^ƒÂ…Û„¢/;"	v
+CONF_ERROR	/home/skoo/YUNIO/Xpipe/src/conf_file.h	14;"	d
+CONF_OK	/home/skoo/YUNIO/Xpipe/src/conf_file.h	13;"	d
+CONF_POOL_SIZE	/home/skoo/YUNIO/Xpipe/src/mem_pool.h	14;"	d
+CONNECTION_POOL_SIZE	/home/skoo/YUNIO/Xpipe/src/mem_pool.h	13;"	d
+CR	/home/skoo/YUNIO/Xpipe/src/system.h	12;"	d
+CRLF	/home/skoo/YUNIO/Xpipe/src/system.h	13;"	d
+EVENT_ERROR	/home/skoo/YUNIO/Xpipe/src/net/net_event.h	12;"	d
+EVENT_OK	/home/skoo/YUNIO/Xpipe/src/net/net_event.h	11;"	d
+EV_NONE_EVENT	/home/skoo/YUNIO/Xpipe/src/net/net_event.h	14;"	d
+EV_READ_EVENT	/home/skoo/YUNIO/Xpipe/src/net/net_event.h	15;"	d
+EV_WRITE_EVENT	/home/skoo/YUNIO/Xpipe/src/net/net_event.h	16;"	d
+FL_APPEND	/home/skoo/YUNIO/Xpipe/src/xfile.h	16;"	d
+FL_BEGIN_OFFSET	/home/skoo/YUNIO/Xpipe/src/xfile.h	21;"	d
+FL_CREATE	/home/skoo/YUNIO/Xpipe/src/xfile.h	15;"	d
+FL_DEFAULT_OFFSET	/home/skoo/YUNIO/Xpipe/src/xfile.h	20;"	d
+FL_INVALID_FD	/home/skoo/YUNIO/Xpipe/src/xfile.h	22;"	d
+FL_NOBLOCK	/home/skoo/YUNIO/Xpipe/src/xfile.h	18;"	d
+FL_RDONLY	/home/skoo/YUNIO/Xpipe/src/xfile.h	13;"	d
+FL_TRUNC	/home/skoo/YUNIO/Xpipe/src/xfile.h	17;"	d
+FL_WRONLY	/home/skoo/YUNIO/Xpipe/src/xfile.h	14;"	d
+I	/home/skoo/YUNIO/Xpipe/src/dynamic_array.o	/^/;"	v
+I	/home/skoo/YUNIO/Xpipe/src/logger.o	/^/;"	v
+I	/home/skoo/YUNIO/Xpipe/src/xstring.o	/^%/;"	v
+I	/home/skoo/YUNIO/Xpipe/src/xstring.o	/^/;"	v
+LF	/home/skoo/YUNIO/Xpipe/src/system.h	11;"	d
+LOG_CONTENT_MAX_LEN	/home/skoo/YUNIO/Xpipe/src/logger.c	8;"	d	file:
+LOG_FILE_STDOUT	/home/skoo/YUNIO/Xpipe/src/logger.h	17;"	d
+LOG_LEVEL_DEBUG	/home/skoo/YUNIO/Xpipe/src/logger.h	14;"	d
+LOG_LEVEL_ERROR	/home/skoo/YUNIO/Xpipe/src/logger.h	11;"	d
+LOG_LEVEL_INFO	/home/skoo/YUNIO/Xpipe/src/logger.h	13;"	d
+LOG_LEVEL_STDOUT	/home/skoo/YUNIO/Xpipe/src/logger.h	15;"	d
+LOG_LEVEL_WARN	/home/skoo/YUNIO/Xpipe/src/logger.h	12;"	d
+MAX_SIZE_OF_CHUNK	/home/skoo/YUNIO/Xpipe/src/mem_pool.h	11;"	d
+MODULE_POOL_SIZE	/home/skoo/YUNIO/Xpipe/src/mem_pool.h	15;"	d
+MOD_ERROR	/home/skoo/YUNIO/Xpipe/src/mod_manager.h	12;"	d
+MOD_OK	/home/skoo/YUNIO/Xpipe/src/mod_manager.h	11;"	d
+TCP_SRV_ERROR	/home/skoo/YUNIO/Xpipe/src/net/tcp_server.h	12;"	d
+TCP_SRV_OK	/home/skoo/YUNIO/Xpipe/src/net/tcp_server.h	11;"	d
+XPE_ERROR	/home/skoo/YUNIO/Xpipe/src/system.h	9;"	d
+XPE_OK	/home/skoo/YUNIO/Xpipe/src/system.h	8;"	d
+XPIPE_VERSION	/home/skoo/YUNIO/Xpipe/src/config.h	9;"	d
+Z	/home/skoo/YUNIO/Xpipe/src/dynamic_array.o	/^ELF/;"	v
+__ARRAY_H__	/home/skoo/YUNIO/Xpipe/src/dynamic_array.h	6;"	d
+__CONFIG_H__	/home/skoo/YUNIO/Xpipe/src/config.h	6;"	d
+__CONF_PARSE_H__	/home/skoo/YUNIO/Xpipe/src/conf_file.h	6;"	d
+__FILE_H__	/home/skoo/YUNIO/Xpipe/src/xfile.h	6;"	d
+__HEADERS_H__	/home/skoo/YUNIO/Xpipe/src/system.h	6;"	d
+__LOGGER_H__	/home/skoo/YUNIO/Xpipe/src/logger.h	6;"	d
+__MEM_POOL_H__	/home/skoo/YUNIO/Xpipe/src/mem_pool.h	6;"	d
+__MOD_MANAGER_H__	/home/skoo/YUNIO/Xpipe/src/mod_manager.h	6;"	d
+__NET_EPOLL_H__	/home/skoo/YUNIO/Xpipe/src/net/net_epoll.h	6;"	d
+__NET_EVENT_H__	/home/skoo/YUNIO/Xpipe/src/net/net_event.h	6;"	d
+__PROTOCOL_H__	/home/skoo/YUNIO/Xpipe/src/net/protocol.h	6;"	d
+__ROUTER_H__	/home/skoo/YUNIO/Xpipe/src/net/router.h	6;"	d
+__TCP_SERVER_H__	/home/skoo/YUNIO/Xpipe/src/net/tcp_server.h	6;"	d
+__TIMES_H__	/home/skoo/YUNIO/Xpipe/src/times.h	6;"	d
+__XSTRING_H__	/home/skoo/YUNIO/Xpipe/src/xstring.h	6;"	d
+__anon1::mod	/home/skoo/YUNIO/Xpipe/src/conf_file.h	/^    u_char      mod;$/;"	m	struct:__anon1	access:public
+__anon1::name	/home/skoo/YUNIO/Xpipe/src/conf_file.h	/^    string_t    name;$/;"	m	struct:__anon1	access:public
+__anon1::set	/home/skoo/YUNIO/Xpipe/src/conf_file.h	/^    cmd_set_fp  set;    $/;"	m	struct:__anon1	access:public
+__anon2::data	/home/skoo/YUNIO/Xpipe/src/xstring.h	/^    u_char    *data;$/;"	m	struct:__anon2	access:public
+__anon2::len	/home/skoo/YUNIO/Xpipe/src/xstring.h	/^    size_t     len;$/;"	m	struct:__anon2	access:public
+__anon3::conf	/home/skoo/YUNIO/Xpipe/src/system.h	/^    conf_file_t *conf;$/;"	m	struct:__anon3	access:public
+__anon3::conf_pool	/home/skoo/YUNIO/Xpipe/src/system.h	/^    mem_pool_t  *conf_pool;$/;"	m	struct:__anon3	access:public
+__anon3::default_logger	/home/skoo/YUNIO/Xpipe/src/system.h	/^    logger_t    *default_logger;   $/;"	m	struct:__anon3	access:public
+__anon3::log_stdout	/home/skoo/YUNIO/Xpipe/src/system.h	/^    logger_t    *log_stdout;$/;"	m	struct:__anon3	access:public
+__anon3::main_logger	/home/skoo/YUNIO/Xpipe/src/system.h	/^    logger_t    *main_logger;$/;"	m	struct:__anon3	access:public
+__anon3::stop	/home/skoo/YUNIO/Xpipe/src/system.h	/^    int          stop;$/;"	m	struct:__anon3	access:public
+__anon4::daemon	/home/skoo/YUNIO/Xpipe/src/xpipe.c	/^    u_char      daemon; $/;"	m	struct:__anon4	file:	access:public
+__anon4::log	/home/skoo/YUNIO/Xpipe/src/xpipe.c	/^    string_t     log;$/;"	m	struct:__anon4	file:	access:public
+__anon5::epoll_fd	/home/skoo/YUNIO/Xpipe/src/net/net_epoll.h	/^    int                 epoll_fd;$/;"	m	struct:__anon5	access:public
+__anon5::events	/home/skoo/YUNIO/Xpipe/src/net/net_epoll.h	/^    struct epoll_event *events;$/;"	m	struct:__anon5	typeref:struct:__anon5::epoll_event	access:public
+__anon6::event_driver	/home/skoo/YUNIO/Xpipe/src/net/network.c	/^    net_event_driver_t     *event_driver;$/;"	m	struct:__anon6	file:	access:public
+__anon6::server	/home/skoo/YUNIO/Xpipe/src/net/network.c	/^    tcp_server_t    *server;$/;"	m	struct:__anon6	file:	access:public
+__anon7::conns	/home/skoo/YUNIO/Xpipe/src/net/network.c	/^    uint_t      conns;$/;"	m	struct:__anon7	file:	access:public
+__anon7::netwk	/home/skoo/YUNIO/Xpipe/src/net/network.c	/^    network_t  *netwk;$/;"	m	struct:__anon7	file:	access:public
+__anon7::port	/home/skoo/YUNIO/Xpipe/src/net/network.c	/^    uint_t      port;$/;"	m	struct:__anon7	file:	access:public
+__anon9::add_handler	/home/skoo/YUNIO/Xpipe/src/net/net_event.h	/^    ev_add_event_fp     add_handler;$/;"	m	struct:__anon9	access:public
+__anon9::create_handler	/home/skoo/YUNIO/Xpipe/src/net/net_event.h	/^    ev_create_fp        create_handler;$/;"	m	struct:__anon9	access:public
+__anon9::del_handler	/home/skoo/YUNIO/Xpipe/src/net/net_event.h	/^    ev_delete_event_fp  del_handler;    $/;"	m	struct:__anon9	access:public
+__anon9::destroy_handler	/home/skoo/YUNIO/Xpipe/src/net/net_event.h	/^    ev_destroy_fp       destroy_handler;$/;"	m	struct:__anon9	access:public
+__anon9::poll_handler	/home/skoo/YUNIO/Xpipe/src/net/net_event.h	/^    ev_event_poll_fp    poll_handler;$/;"	m	struct:__anon9	access:public
+actions	/home/skoo/YUNIO/Xpipe/src/net/net_event.h	/^    event_actions_t    *actions;$/;"	m	struct:net_event_driver_s	access:public
+active_conns	/home/skoo/YUNIO/Xpipe/src/net/net_event.h	/^    tcp_connection_t   *active_conns;$/;"	m	struct:net_event_driver_s	access:public
+active_events	/home/skoo/YUNIO/Xpipe/src/net/tcp_server.h	/^    int                  active_events;$/;"	m	struct:tcp_connection_s	access:public
+add_event	/home/skoo/YUNIO/Xpipe/src/net/net_event.c	/^int add_event(net_event_driver_t *event_driver, tcp_connection_t *conn,$/;"	f	signature:(net_event_driver_t *event_driver, tcp_connection_t *conn, int events, event_handler_fp handler)
+add_event	/home/skoo/YUNIO/Xpipe/src/net/net_event.h	/^int add_event(net_event_driver_t *event_driver, tcp_connection_t *conn, $/;"	p	signature:(net_event_driver_t *event_driver, tcp_connection_t *conn, int events, event_handler_fp handler)
+add_handler	/home/skoo/YUNIO/Xpipe/src/net/net_event.h	/^    ev_add_event_fp     add_handler;$/;"	m	struct:__anon9	access:public
+add_mem_chunk	/home/skoo/YUNIO/Xpipe/src/mem_pool.c	/^static void *add_mem_chunk(mem_pool_t *pool, size_t size)$/;"	f	file:	signature:(mem_pool_t *pool, size_t size)
+alloc_large_mem	/home/skoo/YUNIO/Xpipe/src/mem_pool.c	/^static void *alloc_large_mem(mem_pool_t *pool, size_t size)$/;"	f	file:	signature:(mem_pool_t *pool, size_t size)
+blocks	/home/skoo/YUNIO/Xpipe/src/conf_file.h	/^    uint_t           blocks;$/;"	m	struct:conf_file_s	access:public
+chunk	/home/skoo/YUNIO/Xpipe/src/mem_pool.h	/^    mem_pool_chunk_t  chunk; $/;"	m	struct:mem_pool_s	access:public
+client_addr	/home/skoo/YUNIO/Xpipe/src/net/tcp_server.h	/^    string_t             client_addr;$/;"	m	struct:tcp_connection_s	access:public
+client_port	/home/skoo/YUNIO/Xpipe/src/net/tcp_server.h	/^    int                  client_port;$/;"	m	struct:tcp_connection_s	access:public
+close	/home/skoo/YUNIO/Xpipe/src/net/tcp_server.h	/^    int                  close;$/;"	m	struct:tcp_connection_s	access:public
+cmd_connecions_set	/home/skoo/YUNIO/Xpipe/src/net/network.c	/^static int cmd_connecions_set(dynamic_array_t *args, void *mod_conf)$/;"	f	file:	signature:(dynamic_array_t *args, void *mod_conf)
+cmd_connecions_set	/home/skoo/YUNIO/Xpipe/src/net/network.c	/^static int cmd_connecions_set(dynamic_array_t *args, void *mod_conf);$/;"	p	file:	signature:(dynamic_array_t *args, void *mod_conf)
+cmd_daemon_set	/home/skoo/YUNIO/Xpipe/src/xpipe.c	/^static int cmd_daemon_set(dynamic_array_t *args, void *mod_conf)$/;"	f	file:	signature:(dynamic_array_t *args, void *mod_conf)
+cmd_daemon_set	/home/skoo/YUNIO/Xpipe/src/xpipe.c	/^static int cmd_daemon_set(dynamic_array_t *args, void *mod_conf);$/;"	p	file:	signature:(dynamic_array_t *args, void *mod_conf)
+cmd_listen_set	/home/skoo/YUNIO/Xpipe/src/net/network.c	/^static int cmd_listen_set(dynamic_array_t *args, void *mod_conf)$/;"	f	file:	signature:(dynamic_array_t *args, void *mod_conf)
+cmd_listen_set	/home/skoo/YUNIO/Xpipe/src/net/network.c	/^static int cmd_listen_set(dynamic_array_t *args, void *mod_conf);$/;"	p	file:	signature:(dynamic_array_t *args, void *mod_conf)
+cmd_log_set	/home/skoo/YUNIO/Xpipe/src/xpipe.c	/^static int cmd_log_set(dynamic_array_t *args, void *mod_conf)$/;"	f	file:	signature:(dynamic_array_t *args, void *mod_conf)
+cmd_log_set	/home/skoo/YUNIO/Xpipe/src/xpipe.c	/^static int cmd_log_set(dynamic_array_t *args, void *mod_conf);$/;"	p	file:	signature:(dynamic_array_t *args, void *mod_conf)
+cmd_set_fp	/home/skoo/YUNIO/Xpipe/src/conf_file.h	/^typedef int (*cmd_set_fp) (dynamic_array_t *args, void *mod_conf);$/;"	t
+commands	/home/skoo/YUNIO/Xpipe/src/mod_manager.h	/^    conf_command_t     *commands;    $/;"	m	struct:system_module_s	access:public
+commands	/home/skoo/YUNIO/Xpipe/src/net/network.c	/^static conf_command_t commands[] = {$/;"	v	file:
+commands	/home/skoo/YUNIO/Xpipe/src/xpipe.c	/^static conf_command_t commands[] = {$/;"	v	file:
+conf	/home/skoo/YUNIO/Xpipe/src/system.h	/^    conf_file_t *conf;$/;"	m	struct:__anon3	access:public
+conf_command_null	/home/skoo/YUNIO/Xpipe/src/conf_file.h	24;"	d
+conf_command_t	/home/skoo/YUNIO/Xpipe/src/conf_file.h	/^} conf_command_t;$/;"	t	typeref:struct:__anon1
+conf_file_get_command	/home/skoo/YUNIO/Xpipe/src/conf_file.c	/^static conf_command_t *conf_file_get_command(system_module_t *mod,$/;"	f	file:	signature:(system_module_t *mod, string_t *name)
+conf_file_get_global_cmd	/home/skoo/YUNIO/Xpipe/src/conf_file.c	/^static conf_command_t *conf_file_get_global_cmd(conf_file_t *conf,$/;"	f	file:	signature:(conf_file_t *conf, string_t *name)
+conf_file_get_sys_mod	/home/skoo/YUNIO/Xpipe/src/conf_file.c	/^static system_module_t *conf_file_get_sys_mod(u_char *name) $/;"	f	file:	signature:(u_char *name)
+conf_file_parser	/home/skoo/YUNIO/Xpipe/src/conf_file.c	/^int conf_file_parser(conf_file_t *conf)$/;"	f	signature:(conf_file_t *conf)
+conf_file_parser	/home/skoo/YUNIO/Xpipe/src/conf_file.h	/^int conf_file_parser(conf_file_t *conf);$/;"	p	signature:(conf_file_t *conf)
+conf_file_s	/home/skoo/YUNIO/Xpipe/src/conf_file.h	/^struct conf_file_s {$/;"	s
+conf_file_s::blocks	/home/skoo/YUNIO/Xpipe/src/conf_file.h	/^    uint_t           blocks;$/;"	m	struct:conf_file_s	access:public
+conf_file_s::file	/home/skoo/YUNIO/Xpipe/src/conf_file.h	/^    file_t          *file;$/;"	m	struct:conf_file_s	access:public
+conf_file_s::mod_cfs	/home/skoo/YUNIO/Xpipe/src/conf_file.h	/^    dynamic_array_t  mod_cfs;       \/* element is 'void *' *\/$/;"	m	struct:conf_file_s	access:public
+conf_file_s::mod_cmds	/home/skoo/YUNIO/Xpipe/src/conf_file.h	/^    dynamic_array_t  mod_cmds;   \/* element is 'conf_command_t *' *\/$/;"	m	struct:conf_file_s	access:public
+conf_file_s::pool	/home/skoo/YUNIO/Xpipe/src/conf_file.h	/^    mem_pool_t      *pool;$/;"	m	struct:conf_file_s	access:public
+conf_file_t	/home/skoo/YUNIO/Xpipe/src/system.h	/^typedef struct conf_file_s          conf_file_t;$/;"	t	typeref:struct:conf_file_s
+conf_pool	/home/skoo/YUNIO/Xpipe/src/system.h	/^    mem_pool_t  *conf_pool;$/;"	m	struct:__anon3	access:public
+conn_fd	/home/skoo/YUNIO/Xpipe/src/net/tcp_server.h	/^    int                  conn_fd;$/;"	m	struct:tcp_connection_s	access:public
+connection_pool	/home/skoo/YUNIO/Xpipe/src/net/tcp_server.h	/^    tcp_connection_t    *connection_pool;$/;"	m	struct:tcp_server_s	access:public
+connection_pool_init	/home/skoo/YUNIO/Xpipe/src/net/tcp_server.c	/^int connection_pool_init(tcp_server_t *server)$/;"	f	signature:(tcp_server_t *server)
+connection_pool_init	/home/skoo/YUNIO/Xpipe/src/net/tcp_server.h	/^int connection_pool_init(tcp_server_t *server);$/;"	p	signature:(tcp_server_t *server)
+connections	/home/skoo/YUNIO/Xpipe/src/net/tcp_server.h	/^    uint_t               connections;$/;"	m	struct:tcp_server_s	access:public
+conns	/home/skoo/YUNIO/Xpipe/src/net/network.c	/^    uint_t      conns;$/;"	m	struct:__anon7	file:	access:public
+create_conf	/home/skoo/YUNIO/Xpipe/src/mod_manager.h	/^    create_mod_conf_fp  create_conf;$/;"	m	struct:system_module_s	access:public
+create_default_logger	/home/skoo/YUNIO/Xpipe/src/xpipe.c	/^static int create_default_logger(xpipe_resource_t *resource)$/;"	f	file:	signature:(xpipe_resource_t *resource)
+create_default_logger	/home/skoo/YUNIO/Xpipe/src/xpipe.c	/^static int create_default_logger(xpipe_resource_t *resource);$/;"	p	file:	signature:(xpipe_resource_t *resource)
+create_handler	/home/skoo/YUNIO/Xpipe/src/net/net_event.h	/^    ev_create_fp        create_handler;$/;"	m	struct:__anon9	access:public
+create_main_loc_conf	/home/skoo/YUNIO/Xpipe/src/xpipe.c	/^static void *create_main_loc_conf(mem_pool_t *pool)$/;"	f	file:	signature:(mem_pool_t *pool)
+create_main_loc_conf	/home/skoo/YUNIO/Xpipe/src/xpipe.c	/^static void *create_main_loc_conf(mem_pool_t *pool);$/;"	p	file:	signature:(mem_pool_t *pool)
+create_mod_conf_fp	/home/skoo/YUNIO/Xpipe/src/mod_manager.h	/^typedef void* (*create_mod_conf_fp) (mem_pool_t *pool);$/;"	t
+create_net_mod_conf	/home/skoo/YUNIO/Xpipe/src/net/network.c	/^static void *create_net_mod_conf(mem_pool_t *pool)$/;"	f	file:	signature:(mem_pool_t *pool)
+create_net_mod_conf	/home/skoo/YUNIO/Xpipe/src/net/network.c	/^static void *create_net_mod_conf(mem_pool_t *pool);$/;"	p	file:	signature:(mem_pool_t *pool)
+current	/home/skoo/YUNIO/Xpipe/src/mem_pool.h	/^    mem_pool_chunk_t *current;$/;"	m	struct:mem_pool_s	access:public
+daemon	/home/skoo/YUNIO/Xpipe/src/xpipe.c	/^    u_char      daemon; $/;"	m	struct:__anon4	file:	access:public
+data	/home/skoo/YUNIO/Xpipe/src/mem_pool.h	/^    u_char           *data;$/;"	m	struct:mem_pool_large_s	access:public
+data	/home/skoo/YUNIO/Xpipe/src/xstring.h	/^    u_char    *data;$/;"	m	struct:__anon2	access:public
+dead_events	/home/skoo/YUNIO/Xpipe/src/net/tcp_server.h	/^    int                  dead_events;$/;"	m	struct:tcp_connection_s	access:public
+default_conf_file_full_path	/home/skoo/YUNIO/Xpipe/src/config.h	12;"	d
+default_log_file	/home/skoo/YUNIO/Xpipe/src/xfile.h	11;"	d
+default_logger	/home/skoo/YUNIO/Xpipe/src/system.h	/^    logger_t    *default_logger;   $/;"	m	struct:__anon3	access:public
+default_logger_full_path	/home/skoo/YUNIO/Xpipe/src/config.h	11;"	d
+del_event	/home/skoo/YUNIO/Xpipe/src/net/net_event.c	/^int del_event(net_event_driver_t *event_driver, tcp_connection_t *conn,$/;"	f	signature:(net_event_driver_t *event_driver, tcp_connection_t *conn, int events)
+del_event	/home/skoo/YUNIO/Xpipe/src/net/net_event.h	/^int del_event(net_event_driver_t *event_driver, tcp_connection_t *conn, $/;"	p	signature:(net_event_driver_t *event_driver, tcp_connection_t *conn, int events)
+del_handler	/home/skoo/YUNIO/Xpipe/src/net/net_event.h	/^    ev_delete_event_fp  del_handler;    $/;"	m	struct:__anon9	access:public
+destroy_handler	/home/skoo/YUNIO/Xpipe/src/net/net_event.h	/^    ev_destroy_fp       destroy_handler;$/;"	m	struct:__anon9	access:public
+dynamic_array_clear	/home/skoo/YUNIO/Xpipe/src/dynamic_array.c	/^void dynamic_array_clear(dynamic_array_t *array)$/;"	f	signature:(dynamic_array_t *array)
+dynamic_array_clear	/home/skoo/YUNIO/Xpipe/src/dynamic_array.h	/^void dynamic_array_clear(dynamic_array_t *array);$/;"	p	signature:(dynamic_array_t *array)
+dynamic_array_create	/home/skoo/YUNIO/Xpipe/src/dynamic_array.c	/^dynamic_array_t *dynamic_array_create(mem_pool_t *pool, uint_t n, uint_t size)$/;"	f	signature:(mem_pool_t *pool, uint_t n, uint_t size)
+dynamic_array_create	/home/skoo/YUNIO/Xpipe/src/dynamic_array.h	/^dynamic_array_t *dynamic_array_create(mem_pool_t *pool, uint_t n, uint_t size);$/;"	p	signature:(mem_pool_t *pool, uint_t n, uint_t size)
+dynamic_array_destroy	/home/skoo/YUNIO/Xpipe/src/dynamic_array.c	/^void dynamic_array_destroy(dynamic_array_t *array)$/;"	f	signature:(dynamic_array_t *array)
+dynamic_array_destroy	/home/skoo/YUNIO/Xpipe/src/dynamic_array.h	/^void dynamic_array_destroy(dynamic_array_t *array);$/;"	p	signature:(dynamic_array_t *array)
+dynamic_array_get_ix	/home/skoo/YUNIO/Xpipe/src/dynamic_array.c	/^void *dynamic_array_get_ix(dynamic_array_t *array, uint_t index)$/;"	f	signature:(dynamic_array_t *array, uint_t index)
+dynamic_array_get_ix	/home/skoo/YUNIO/Xpipe/src/dynamic_array.h	/^void *dynamic_array_get_ix(dynamic_array_t *array, uint_t index);$/;"	p	signature:(dynamic_array_t *array, uint_t index)
+dynamic_array_init	/home/skoo/YUNIO/Xpipe/src/dynamic_array.c	/^void *dynamic_array_init(mem_pool_t *pool, dynamic_array_t *array, uint_t n,$/;"	f	signature:(mem_pool_t *pool, dynamic_array_t *array, uint_t n, size_t size)
+dynamic_array_init	/home/skoo/YUNIO/Xpipe/src/dynamic_array.h	/^void *dynamic_array_init(mem_pool_t *pool, dynamic_array_t *array, uint_t n,$/;"	p	signature:(mem_pool_t *pool, dynamic_array_t *array, uint_t n, size_t size)
+dynamic_array_push	/home/skoo/YUNIO/Xpipe/src/dynamic_array.c	/^void *dynamic_array_push(dynamic_array_t *array)$/;"	f	signature:(dynamic_array_t *array)
+dynamic_array_push	/home/skoo/YUNIO/Xpipe/src/dynamic_array.h	/^void *dynamic_array_push(dynamic_array_t *array);$/;"	p	signature:(dynamic_array_t *array)
+dynamic_array_push_ix	/home/skoo/YUNIO/Xpipe/src/dynamic_array.c	/^void *dynamic_array_push_ix(dynamic_array_t *array, uint_t index)$/;"	f	signature:(dynamic_array_t *array, uint_t index)
+dynamic_array_push_ix	/home/skoo/YUNIO/Xpipe/src/dynamic_array.h	/^void *dynamic_array_push_ix(dynamic_array_t *array, uint_t index);$/;"	p	signature:(dynamic_array_t *array, uint_t index)
+dynamic_array_s	/home/skoo/YUNIO/Xpipe/src/dynamic_array.h	/^struct dynamic_array_s {$/;"	s
+dynamic_array_s::elts	/home/skoo/YUNIO/Xpipe/src/dynamic_array.h	/^    void        *elts;$/;"	m	struct:dynamic_array_s	access:public
+dynamic_array_s::nalloc	/home/skoo/YUNIO/Xpipe/src/dynamic_array.h	/^    uint_t       nalloc;$/;"	m	struct:dynamic_array_s	access:public
+dynamic_array_s::nelts	/home/skoo/YUNIO/Xpipe/src/dynamic_array.h	/^    uint_t       nelts;$/;"	m	struct:dynamic_array_s	access:public
+dynamic_array_s::pool	/home/skoo/YUNIO/Xpipe/src/dynamic_array.h	/^    mem_pool_t  *pool;$/;"	m	struct:dynamic_array_s	access:public
+dynamic_array_s::size	/home/skoo/YUNIO/Xpipe/src/dynamic_array.h	/^    size_t       size;$/;"	m	struct:dynamic_array_s	access:public
+dynamic_array_t	/home/skoo/YUNIO/Xpipe/src/system.h	/^typedef struct dynamic_array_s      dynamic_array_t;$/;"	t	typeref:struct:dynamic_array_s
+elts	/home/skoo/YUNIO/Xpipe/src/dynamic_array.h	/^    void        *elts;$/;"	m	struct:dynamic_array_s	access:public
+end	/home/skoo/YUNIO/Xpipe/src/mem_pool.h	/^    u_char           *end;$/;"	m	struct:mem_pool_chunk_s	access:public
+epoll_add_event	/home/skoo/YUNIO/Xpipe/src/net/net_epoll.c	/^int epoll_add_event(net_event_driver_t *event_driver, tcp_connection_t *conn,$/;"	f	signature:(net_event_driver_t *event_driver, tcp_connection_t *conn, int events)
+epoll_add_event	/home/skoo/YUNIO/Xpipe/src/net/net_epoll.h	/^int epoll_add_event(net_event_driver_t *event_driver, tcp_connection_t *conn,$/;"	p	signature:(net_event_driver_t *event_driver, tcp_connection_t *conn, int events)
+epoll_build	/home/skoo/YUNIO/Xpipe/src/net/net_epoll.c	/^int epoll_build(net_event_driver_t *event_driver)$/;"	f	signature:(net_event_driver_t *event_driver)
+epoll_build	/home/skoo/YUNIO/Xpipe/src/net/net_epoll.h	/^int epoll_build(net_event_driver_t *event_driver);$/;"	p	signature:(net_event_driver_t *event_driver)
+epoll_ctx_t	/home/skoo/YUNIO/Xpipe/src/net/net_epoll.h	/^} epoll_ctx_t;$/;"	t	typeref:struct:__anon5
+epoll_del_event	/home/skoo/YUNIO/Xpipe/src/net/net_epoll.c	/^int epoll_del_event(net_event_driver_t *event_driver, tcp_connection_t *conn,$/;"	f	signature:(net_event_driver_t *event_driver, tcp_connection_t *conn, int events)
+epoll_del_event	/home/skoo/YUNIO/Xpipe/src/net/net_epoll.h	/^int epoll_del_event(net_event_driver_t *event_driver, tcp_connection_t *conn,$/;"	p	signature:(net_event_driver_t *event_driver, tcp_connection_t *conn, int events)
+epoll_destroy	/home/skoo/YUNIO/Xpipe/src/net/net_epoll.c	/^int epoll_destroy(net_event_driver_t *event_driver)$/;"	f	signature:(net_event_driver_t *event_driver)
+epoll_destroy	/home/skoo/YUNIO/Xpipe/src/net/net_epoll.h	/^int epoll_destroy(net_event_driver_t *event_driver);$/;"	p	signature:(net_event_driver_t *event_driver)
+epoll_fd	/home/skoo/YUNIO/Xpipe/src/net/net_epoll.h	/^    int                 epoll_fd;$/;"	m	struct:__anon5	access:public
+epoll_polling	/home/skoo/YUNIO/Xpipe/src/net/net_epoll.c	/^int epoll_polling(net_event_driver_t *event_driver)$/;"	f	signature:(net_event_driver_t *event_driver)
+epoll_polling	/home/skoo/YUNIO/Xpipe/src/net/net_epoll.h	/^int epoll_polling(net_event_driver_t *event_driver);$/;"	p	signature:(net_event_driver_t *event_driver)
+ev_add_event_fp	/home/skoo/YUNIO/Xpipe/src/net/net_event.h	/^typedef int (*ev_add_event_fp) (net_event_driver_t *event_driver,$/;"	t
+ev_create_fp	/home/skoo/YUNIO/Xpipe/src/net/net_event.h	/^typedef int (*ev_create_fp) (net_event_driver_t *event_driver);$/;"	t
+ev_delete_event_fp	/home/skoo/YUNIO/Xpipe/src/net/net_event.h	/^typedef int (*ev_delete_event_fp) (net_event_driver_t *event_driver,$/;"	t
+ev_destroy_fp	/home/skoo/YUNIO/Xpipe/src/net/net_event.h	/^typedef int (*ev_destroy_fp) (net_event_driver_t *event_driver);$/;"	t
+ev_event_poll_fp	/home/skoo/YUNIO/Xpipe/src/net/net_event.h	/^typedef int (*ev_event_poll_fp) (net_event_driver_t *event_driver);$/;"	t
+event_actions	/home/skoo/YUNIO/Xpipe/src/net/net_event.c	/^event_actions_t event_actions = {$/;"	v
+event_actions_t	/home/skoo/YUNIO/Xpipe/src/net/net_event.h	/^} event_actions_t;$/;"	t	typeref:struct:__anon9
+event_driver	/home/skoo/YUNIO/Xpipe/src/net/network.c	/^    net_event_driver_t     *event_driver;$/;"	m	struct:__anon6	file:	access:public
+event_driver	/home/skoo/YUNIO/Xpipe/src/net/tcp_server.h	/^    net_event_driver_t  *event_driver;$/;"	m	struct:tcp_server_s	access:public
+event_handler_fp	/home/skoo/YUNIO/Xpipe/src/system.h	/^typedef int (*event_handler_fp) (tcp_connection_t *conn);$/;"	t
+events	/home/skoo/YUNIO/Xpipe/src/net/net_epoll.h	/^    struct epoll_event *events;$/;"	m	struct:__anon5	typeref:struct:__anon5::epoll_event	access:public
+events	/home/skoo/YUNIO/Xpipe/src/net/tcp_server.h	/^    int                  events;$/;"	m	struct:tcp_connection_s	access:public
+fail	/home/skoo/YUNIO/Xpipe/src/mem_pool.h	/^    int               fail;$/;"	m	struct:mem_pool_chunk_s	access:public
+fd	/home/skoo/YUNIO/Xpipe/src/xfile.h	/^    int         fd;$/;"	m	struct:file_s	access:public
+file	/home/skoo/YUNIO/Xpipe/src/conf_file.h	/^    file_t          *file;$/;"	m	struct:conf_file_s	access:public
+file	/home/skoo/YUNIO/Xpipe/src/logger.h	/^    file_t  *file;$/;"	m	struct:logger_s	access:public
+file_close	/home/skoo/YUNIO/Xpipe/src/xfile.h	32;"	d
+file_delete	/home/skoo/YUNIO/Xpipe/src/xfile.h	33;"	d
+file_open	/home/skoo/YUNIO/Xpipe/src/xfile.c	/^file_t *file_open(mem_pool_t *pool, const char *name)$/;"	f	signature:(mem_pool_t *pool, const char *name)
+file_open	/home/skoo/YUNIO/Xpipe/src/xfile.h	/^file_t *file_open(mem_pool_t *pool, const char *name);$/;"	p	signature:(mem_pool_t *pool, const char *name)
+file_read	/home/skoo/YUNIO/Xpipe/src/xfile.c	/^ssize_t file_read(file_t *f, u_char *buf, size_t size, off_t offset)$/;"	f	signature:(file_t *f, u_char *buf, size_t size, off_t offset)
+file_read	/home/skoo/YUNIO/Xpipe/src/xfile.h	/^ssize_t file_read(file_t *f, u_char *buf, size_t size, off_t offset);$/;"	p	signature:(file_t *f, u_char *buf, size_t size, off_t offset)
+file_s	/home/skoo/YUNIO/Xpipe/src/xfile.h	/^struct file_s {$/;"	s
+file_s::fd	/home/skoo/YUNIO/Xpipe/src/xfile.h	/^    int         fd;$/;"	m	struct:file_s	access:public
+file_s::name	/home/skoo/YUNIO/Xpipe/src/xfile.h	/^    string_t    name;$/;"	m	struct:file_s	access:public
+file_s::offset	/home/skoo/YUNIO/Xpipe/src/xfile.h	/^    off_t       offset;$/;"	m	struct:file_s	access:public
+file_t	/home/skoo/YUNIO/Xpipe/src/system.h	/^typedef struct file_s               file_t;$/;"	t	typeref:struct:file_s
+file_write	/home/skoo/YUNIO/Xpipe/src/xfile.c	/^ssize_t file_write(file_t *f, u_char *buf, size_t size, off_t offset)$/;"	f	signature:(file_t *f, u_char *buf, size_t size, off_t offset)
+file_write	/home/skoo/YUNIO/Xpipe/src/xfile.h	/^ssize_t file_write(file_t *f, u_char *buf, size_t size, off_t offset);$/;"	p	signature:(file_t *f, u_char *buf, size_t size, off_t offset)
+finish_mod	/home/skoo/YUNIO/Xpipe/src/mod_manager.h	/^    finish_mod_fp       finish_mod;$/;"	m	struct:system_module_s	access:public
+finish_mod_fp	/home/skoo/YUNIO/Xpipe/src/mod_manager.h	/^typedef int (*finish_mod_fp) (system_module_t *mod);$/;"	t
+finish_network_mod	/home/skoo/YUNIO/Xpipe/src/net/network.c	/^static int finish_network_mod(system_module_t *mod)$/;"	f	file:	signature:(system_module_t *mod)
+finish_network_mod	/home/skoo/YUNIO/Xpipe/src/net/network.c	/^static int finish_network_mod(system_module_t *mod);$/;"	p	file:	signature:(system_module_t *mod)
+index	/home/skoo/YUNIO/Xpipe/src/mod_manager.h	/^    int                 index;$/;"	m	struct:system_module_s	access:public
+init_main_mod	/home/skoo/YUNIO/Xpipe/src/xpipe.c	/^static int init_main_mod(system_module_t *mod)$/;"	f	file:	signature:(system_module_t *mod)
+init_main_mod	/home/skoo/YUNIO/Xpipe/src/xpipe.c	/^static int init_main_mod(system_module_t *mod);$/;"	p	file:	signature:(system_module_t *mod)
+init_mod	/home/skoo/YUNIO/Xpipe/src/mod_manager.h	/^    init_mod_fp         init_mod;$/;"	m	struct:system_module_s	access:public
+init_mod_fp	/home/skoo/YUNIO/Xpipe/src/mod_manager.h	/^typedef int (*init_mod_fp) (system_module_t *mod);$/;"	t
+init_network_mod	/home/skoo/YUNIO/Xpipe/src/net/network.c	/^static int init_network_mod(system_module_t *mod)$/;"	f	file:	signature:(system_module_t *mod)
+init_network_mod	/home/skoo/YUNIO/Xpipe/src/net/network.c	/^static int init_network_mod(system_module_t *mod);$/;"	p	file:	signature:(system_module_t *mod)
+io_ctx	/home/skoo/YUNIO/Xpipe/src/net/net_event.h	/^    void               *io_ctx;$/;"	m	struct:net_event_driver_s	access:public
+is_blank	/home/skoo/YUNIO/Xpipe/src/xstring.h	29;"	d
+is_digit	/home/skoo/YUNIO/Xpipe/src/xstring.h	28;"	d
+is_letter	/home/skoo/YUNIO/Xpipe/src/xstring.h	27;"	d
+is_listen	/home/skoo/YUNIO/Xpipe/src/net/tcp_server.h	/^    int                  is_listen;$/;"	m	struct:tcp_connection_s	access:public
+is_positive_integer	/home/skoo/YUNIO/Xpipe/src/xstring.c	/^int is_positive_integer(string_t *num)$/;"	f	signature:(string_t *num)
+is_positive_integer	/home/skoo/YUNIO/Xpipe/src/xstring.h	/^int is_positive_integer(string_t *num);$/;"	p	signature:(string_t *num)
+is_sys_main_mod	/home/skoo/YUNIO/Xpipe/src/mod_manager.h	42;"	d
+is_sys_net_mod	/home/skoo/YUNIO/Xpipe/src/mod_manager.h	43;"	d
+is_valid_port	/home/skoo/YUNIO/Xpipe/src/net/network.c	8;"	d	file:
+large	/home/skoo/YUNIO/Xpipe/src/mem_pool.h	/^    mem_pool_large_t *large;$/;"	m	struct:mem_pool_s	access:public
+last	/home/skoo/YUNIO/Xpipe/src/mem_pool.h	/^    u_char           *last;$/;"	m	struct:mem_pool_chunk_s	access:public
+len	/home/skoo/YUNIO/Xpipe/src/xstring.h	/^    size_t     len;$/;"	m	struct:__anon2	access:public
+level	/home/skoo/YUNIO/Xpipe/src/logger.h	/^    int      level;$/;"	m	struct:logger_s	access:public
+level_str	/home/skoo/YUNIO/Xpipe/src/logger.c	/^static string_t level_str[] = {$/;"	v	file:
+log	/home/skoo/YUNIO/Xpipe/src/xpipe.c	/^    string_t     log;$/;"	m	struct:__anon4	file:	access:public
+log_core_writer	/home/skoo/YUNIO/Xpipe/src/logger.c	/^static void log_core_writer(file_t *f, int err, int level, const char *fmt, $/;"	f	file:	signature:(file_t *f, int err, int level, const char *fmt, va_list args)
+log_create	/home/skoo/YUNIO/Xpipe/src/logger.c	/^logger_t *log_create(mem_pool_t *pool, int level, file_t *file)$/;"	f	signature:(mem_pool_t *pool, int level, file_t *file)
+log_create	/home/skoo/YUNIO/Xpipe/src/logger.h	/^logger_t* log_create(mem_pool_t *pool, int level, file_t *file);$/;"	p	signature:(mem_pool_t *pool, int level, file_t *file)
+log_debug	/home/skoo/YUNIO/Xpipe/src/logger.c	/^void log_debug(logger_t *logger, int err, const char *fmt, ...)$/;"	f	signature:(logger_t *logger, int err, const char *fmt, ...)
+log_debug	/home/skoo/YUNIO/Xpipe/src/logger.h	/^void log_debug(logger_t *logger, int err, const char *fmt, ...);$/;"	p	signature:(logger_t *logger, int err, const char *fmt, ...)
+log_error	/home/skoo/YUNIO/Xpipe/src/logger.c	/^void log_error(logger_t *logger, int err, const char *fmt, ...)$/;"	f	signature:(logger_t *logger, int err, const char *fmt, ...)
+log_error	/home/skoo/YUNIO/Xpipe/src/logger.h	/^void log_error(logger_t *logger, int err, const char *fmt, ...);$/;"	p	signature:(logger_t *logger, int err, const char *fmt, ...)
+log_info	/home/skoo/YUNIO/Xpipe/src/logger.c	/^void log_info(logger_t *logger, int err, const char *fmt, ...)$/;"	f	signature:(logger_t *logger, int err, const char *fmt, ...)
+log_info	/home/skoo/YUNIO/Xpipe/src/logger.h	/^void log_info(logger_t *logger, int err, const char *fmt, ...);$/;"	p	signature:(logger_t *logger, int err, const char *fmt, ...)
+log_printf	/home/skoo/YUNIO/Xpipe/src/logger.c	/^void log_printf(const char *fmt, ...)$/;"	f	signature:(const char *fmt, ...)
+log_printf	/home/skoo/YUNIO/Xpipe/src/logger.h	/^void log_printf(const char *fmt, ...);$/;"	p	signature:(const char *fmt, ...)
+log_stderr	/home/skoo/YUNIO/Xpipe/src/logger.c	/^void log_stderr(int err, const char *fmt, ...)$/;"	f	signature:(int err, const char *fmt, ...)
+log_stderr	/home/skoo/YUNIO/Xpipe/src/logger.h	/^void log_stderr(int err, const char *fmt, ...);$/;"	p	signature:(int err, const char *fmt, ...)
+log_stdout	/home/skoo/YUNIO/Xpipe/src/system.h	/^    logger_t    *log_stdout;$/;"	m	struct:__anon3	access:public
+log_warn	/home/skoo/YUNIO/Xpipe/src/logger.c	/^void log_warn(logger_t  *logger, int err, const char *fmt, ...)$/;"	f	signature:(logger_t *logger, int err, const char *fmt, ...)
+log_warn	/home/skoo/YUNIO/Xpipe/src/logger.h	/^void log_warn(logger_t  *logger, int err, const char *fmt, ...);$/;"	p	signature:(logger_t *logger, int err, const char *fmt, ...)
+logger	/home/skoo/YUNIO/Xpipe/src/mem_pool.h	/^    logger_t         *logger;$/;"	m	struct:mem_pool_s	access:public
+logger	/home/skoo/YUNIO/Xpipe/src/mod_manager.h	/^    logger_t           *logger;$/;"	m	struct:system_module_s	access:public
+logger	/home/skoo/YUNIO/Xpipe/src/net/net_event.h	/^    logger_t           *logger;$/;"	m	struct:net_event_driver_s	access:public
+logger	/home/skoo/YUNIO/Xpipe/src/net/tcp_server.h	/^    logger_t            *logger;$/;"	m	struct:tcp_connection_s	access:public
+logger	/home/skoo/YUNIO/Xpipe/src/net/tcp_server.h	/^    logger_t            *logger;$/;"	m	struct:tcp_server_s	access:public
+logger_s	/home/skoo/YUNIO/Xpipe/src/logger.h	/^struct logger_s {$/;"	s
+logger_s::file	/home/skoo/YUNIO/Xpipe/src/logger.h	/^    file_t  *file;$/;"	m	struct:logger_s	access:public
+logger_s::level	/home/skoo/YUNIO/Xpipe/src/logger.h	/^    int      level;$/;"	m	struct:logger_s	access:public
+logger_t	/home/skoo/YUNIO/Xpipe/src/system.h	/^typedef struct logger_s             logger_t;$/;"	t	typeref:struct:logger_s
+main	/home/skoo/YUNIO/Xpipe/src/xpipe.c	/^int main(int argc, char **args) $/;"	f	signature:(int argc, char **args)
+main_logger	/home/skoo/YUNIO/Xpipe/src/system.h	/^    logger_t    *main_logger;$/;"	m	struct:__anon3	access:public
+max	/home/skoo/YUNIO/Xpipe/src/mem_pool.h	/^    size_t            max;$/;"	m	struct:mem_pool_s	access:public
+mem_pool_chunk_s	/home/skoo/YUNIO/Xpipe/src/mem_pool.h	/^struct mem_pool_chunk_s {$/;"	s
+mem_pool_chunk_s::end	/home/skoo/YUNIO/Xpipe/src/mem_pool.h	/^    u_char           *end;$/;"	m	struct:mem_pool_chunk_s	access:public
+mem_pool_chunk_s::fail	/home/skoo/YUNIO/Xpipe/src/mem_pool.h	/^    int               fail;$/;"	m	struct:mem_pool_chunk_s	access:public
+mem_pool_chunk_s::last	/home/skoo/YUNIO/Xpipe/src/mem_pool.h	/^    u_char           *last;$/;"	m	struct:mem_pool_chunk_s	access:public
+mem_pool_chunk_s::next	/home/skoo/YUNIO/Xpipe/src/mem_pool.h	/^    mem_pool_chunk_t *next;$/;"	m	struct:mem_pool_chunk_s	access:public
+mem_pool_chunk_t	/home/skoo/YUNIO/Xpipe/src/mem_pool.h	/^typedef struct mem_pool_chunk_s mem_pool_chunk_t;$/;"	t	typeref:struct:mem_pool_chunk_s
+mem_pool_clear	/home/skoo/YUNIO/Xpipe/src/mem_pool.c	/^void mem_pool_clear(mem_pool_t *pool)$/;"	f	signature:(mem_pool_t *pool)
+mem_pool_clear	/home/skoo/YUNIO/Xpipe/src/mem_pool.h	/^void mem_pool_clear(mem_pool_t *pool);$/;"	p	signature:(mem_pool_t *pool)
+mem_pool_create	/home/skoo/YUNIO/Xpipe/src/mem_pool.c	/^mem_pool_t *mem_pool_create(u_char *name, size_t size, logger_t *logger)$/;"	f	signature:(u_char *name, size_t size, logger_t *logger)
+mem_pool_create	/home/skoo/YUNIO/Xpipe/src/mem_pool.h	/^mem_pool_t *mem_pool_create(u_char *name, size_t size, logger_t *logger);$/;"	p	signature:(u_char *name, size_t size, logger_t *logger)
+mem_pool_destroy	/home/skoo/YUNIO/Xpipe/src/mem_pool.c	/^void mem_pool_destroy(mem_pool_t *pool)$/;"	f	signature:(mem_pool_t *pool)
+mem_pool_destroy	/home/skoo/YUNIO/Xpipe/src/mem_pool.h	/^void mem_pool_destroy(mem_pool_t *pool);$/;"	p	signature:(mem_pool_t *pool)
+mem_pool_large_s	/home/skoo/YUNIO/Xpipe/src/mem_pool.h	/^struct mem_pool_large_s {$/;"	s
+mem_pool_large_s::data	/home/skoo/YUNIO/Xpipe/src/mem_pool.h	/^    u_char           *data;$/;"	m	struct:mem_pool_large_s	access:public
+mem_pool_large_s::next	/home/skoo/YUNIO/Xpipe/src/mem_pool.h	/^    mem_pool_large_t *next;$/;"	m	struct:mem_pool_large_s	access:public
+mem_pool_large_t	/home/skoo/YUNIO/Xpipe/src/mem_pool.h	/^typedef struct mem_pool_large_s mem_pool_large_t;$/;"	t	typeref:struct:mem_pool_large_s
+mem_pool_s	/home/skoo/YUNIO/Xpipe/src/mem_pool.h	/^struct mem_pool_s {$/;"	s
+mem_pool_s::chunk	/home/skoo/YUNIO/Xpipe/src/mem_pool.h	/^    mem_pool_chunk_t  chunk; $/;"	m	struct:mem_pool_s	access:public
+mem_pool_s::current	/home/skoo/YUNIO/Xpipe/src/mem_pool.h	/^    mem_pool_chunk_t *current;$/;"	m	struct:mem_pool_s	access:public
+mem_pool_s::large	/home/skoo/YUNIO/Xpipe/src/mem_pool.h	/^    mem_pool_large_t *large;$/;"	m	struct:mem_pool_s	access:public
+mem_pool_s::logger	/home/skoo/YUNIO/Xpipe/src/mem_pool.h	/^    logger_t         *logger;$/;"	m	struct:mem_pool_s	access:public
+mem_pool_s::max	/home/skoo/YUNIO/Xpipe/src/mem_pool.h	/^    size_t            max;$/;"	m	struct:mem_pool_s	access:public
+mem_pool_s::name	/home/skoo/YUNIO/Xpipe/src/mem_pool.h	/^    string_t          name;$/;"	m	struct:mem_pool_s	access:public
+mem_pool_s::total	/home/skoo/YUNIO/Xpipe/src/mem_pool.h	/^    size_t            total;$/;"	m	struct:mem_pool_s	access:public
+mem_pool_t	/home/skoo/YUNIO/Xpipe/src/system.h	/^typedef struct mem_pool_s           mem_pool_t;$/;"	t	typeref:struct:mem_pool_s
+mod	/home/skoo/YUNIO/Xpipe/src/conf_file.h	/^    u_char      mod;$/;"	m	struct:__anon1	access:public
+mod_cfs	/home/skoo/YUNIO/Xpipe/src/conf_file.h	/^    dynamic_array_t  mod_cfs;       \/* element is 'void *' *\/$/;"	m	struct:conf_file_s	access:public
+mod_cmds	/home/skoo/YUNIO/Xpipe/src/conf_file.h	/^    dynamic_array_t  mod_cmds;   \/* element is 'conf_command_t *' *\/$/;"	m	struct:conf_file_s	access:public
+mod_conf	/home/skoo/YUNIO/Xpipe/src/mod_manager.h	/^    void               *mod_conf;$/;"	m	struct:system_module_s	access:public
+mod_name	/home/skoo/YUNIO/Xpipe/src/mod_manager.h	/^    string_t            mod_name;$/;"	m	struct:system_module_s	access:public
+nalloc	/home/skoo/YUNIO/Xpipe/src/dynamic_array.h	/^    uint_t       nalloc;$/;"	m	struct:dynamic_array_s	access:public
+name	/home/skoo/YUNIO/Xpipe/src/conf_file.h	/^    string_t    name;$/;"	m	struct:__anon1	access:public
+name	/home/skoo/YUNIO/Xpipe/src/mem_pool.h	/^    string_t          name;$/;"	m	struct:mem_pool_s	access:public
+name	/home/skoo/YUNIO/Xpipe/src/xfile.h	/^    string_t    name;$/;"	m	struct:file_s	access:public
+nelts	/home/skoo/YUNIO/Xpipe/src/dynamic_array.h	/^    uint_t       nelts;$/;"	m	struct:dynamic_array_s	access:public
+net_event_driver_s	/home/skoo/YUNIO/Xpipe/src/net/net_event.h	/^struct net_event_driver_s {$/;"	s
+net_event_driver_s::actions	/home/skoo/YUNIO/Xpipe/src/net/net_event.h	/^    event_actions_t    *actions;$/;"	m	struct:net_event_driver_s	access:public
+net_event_driver_s::active_conns	/home/skoo/YUNIO/Xpipe/src/net/net_event.h	/^    tcp_connection_t   *active_conns;$/;"	m	struct:net_event_driver_s	access:public
+net_event_driver_s::io_ctx	/home/skoo/YUNIO/Xpipe/src/net/net_event.h	/^    void               *io_ctx;$/;"	m	struct:net_event_driver_s	access:public
+net_event_driver_s::logger	/home/skoo/YUNIO/Xpipe/src/net/net_event.h	/^    logger_t           *logger;$/;"	m	struct:net_event_driver_s	access:public
+net_event_driver_s::pool	/home/skoo/YUNIO/Xpipe/src/net/net_event.h	/^    mem_pool_t         *pool;$/;"	m	struct:net_event_driver_s	access:public
+net_event_driver_s::size	/home/skoo/YUNIO/Xpipe/src/net/net_event.h	/^    int                 size;$/;"	m	struct:net_event_driver_s	access:public
+net_event_driver_t	/home/skoo/YUNIO/Xpipe/src/system.h	/^typedef struct net_event_driver_s   net_event_driver_t;$/;"	t	typeref:struct:net_event_driver_s
+net_event_init	/home/skoo/YUNIO/Xpipe/src/net/net_event.c	/^int net_event_init(net_event_driver_t *event_driver)$/;"	f	signature:(net_event_driver_t *event_driver)
+net_event_init	/home/skoo/YUNIO/Xpipe/src/net/net_event.h	/^int net_event_init(net_event_driver_t *event_driver);$/;"	p	signature:(net_event_driver_t *event_driver)
+netwk	/home/skoo/YUNIO/Xpipe/src/net/network.c	/^    network_t  *netwk;$/;"	m	struct:__anon7	file:	access:public
+network_t	/home/skoo/YUNIO/Xpipe/src/net/network.c	/^} network_t;$/;"	t	typeref:struct:__anon6	file:
+next	/home/skoo/YUNIO/Xpipe/src/mem_pool.h	/^    mem_pool_chunk_t *next;$/;"	m	struct:mem_pool_chunk_s	access:public
+next	/home/skoo/YUNIO/Xpipe/src/mem_pool.h	/^    mem_pool_large_t *next;$/;"	m	struct:mem_pool_large_s	access:public
+next	/home/skoo/YUNIO/Xpipe/src/net/tcp_server.h	/^    void                *next;$/;"	m	struct:tcp_connection_s	access:public
+o	/home/skoo/YUNIO/Xpipe/src/xstring.o	/^%/;"	v
+offset	/home/skoo/YUNIO/Xpipe/src/xfile.h	/^    off_t       offset;$/;"	m	struct:file_s	access:public
+open_file_fd	/home/skoo/YUNIO/Xpipe/src/xfile.h	31;"	d
+pcalloc	/home/skoo/YUNIO/Xpipe/src/mem_pool.c	/^void *pcalloc(mem_pool_t *pool, size_t size)$/;"	f	signature:(mem_pool_t *pool, size_t size)
+pcalloc	/home/skoo/YUNIO/Xpipe/src/mem_pool.h	/^void *pcalloc(mem_pool_t *pool, size_t size);$/;"	p	signature:(mem_pool_t *pool, size_t size)
+pfree_large	/home/skoo/YUNIO/Xpipe/src/mem_pool.c	/^int pfree_large(mem_pool_t *pool, void *p)$/;"	f	signature:(mem_pool_t *pool, void *p)
+pfree_large	/home/skoo/YUNIO/Xpipe/src/mem_pool.h	/^int pfree_large(mem_pool_t *pool, void *p);$/;"	p	signature:(mem_pool_t *pool, void *p)
+pmalloc	/home/skoo/YUNIO/Xpipe/src/mem_pool.c	/^void *pmalloc(mem_pool_t *pool, size_t size)$/;"	f	signature:(mem_pool_t *pool, size_t size)
+pmalloc	/home/skoo/YUNIO/Xpipe/src/mem_pool.h	/^void *pmalloc(mem_pool_t *pool, size_t size);$/;"	p	signature:(mem_pool_t *pool, size_t size)
+poll_handler	/home/skoo/YUNIO/Xpipe/src/net/net_event.h	/^    ev_event_poll_fp    poll_handler;$/;"	m	struct:__anon9	access:public
+pool	/home/skoo/YUNIO/Xpipe/src/conf_file.h	/^    mem_pool_t      *pool;$/;"	m	struct:conf_file_s	access:public
+pool	/home/skoo/YUNIO/Xpipe/src/dynamic_array.h	/^    mem_pool_t  *pool;$/;"	m	struct:dynamic_array_s	access:public
+pool	/home/skoo/YUNIO/Xpipe/src/mod_manager.h	/^    mem_pool_t         *pool;$/;"	m	struct:system_module_s	access:public
+pool	/home/skoo/YUNIO/Xpipe/src/net/net_event.h	/^    mem_pool_t         *pool;$/;"	m	struct:net_event_driver_s	access:public
+pool	/home/skoo/YUNIO/Xpipe/src/net/tcp_server.h	/^    mem_pool_t          *pool;$/;"	m	struct:tcp_connection_s	access:public
+pool	/home/skoo/YUNIO/Xpipe/src/net/tcp_server.h	/^    mem_pool_t          *pool;$/;"	m	struct:tcp_server_s	access:public
+port	/home/skoo/YUNIO/Xpipe/src/net/network.c	/^    uint_t      port;$/;"	m	struct:__anon7	file:	access:public
+port	/home/skoo/YUNIO/Xpipe/src/net/tcp_server.h	/^    uint_t               port;$/;"	m	struct:tcp_server_s	access:public
+process_events	/home/skoo/YUNIO/Xpipe/src/net/net_event.c	/^int process_events(net_event_driver_t *event_driver)$/;"	f	signature:(net_event_driver_t *event_driver)
+process_events	/home/skoo/YUNIO/Xpipe/src/net/net_event.h	/^int process_events(net_event_driver_t *event_driver);$/;"	p	signature:(net_event_driver_t *event_driver)
+process_mod	/home/skoo/YUNIO/Xpipe/src/mod_manager.h	/^    process_mod_fp      process_mod;$/;"	m	struct:system_module_s	access:public
+process_mod_fp	/home/skoo/YUNIO/Xpipe/src/mod_manager.h	/^typedef int (*process_mod_fp) (system_module_t *mod);$/;"	t
+process_network_mod	/home/skoo/YUNIO/Xpipe/src/net/network.c	/^static int process_network_mod(system_module_t *mod)$/;"	f	file:	signature:(system_module_t *mod)
+process_network_mod	/home/skoo/YUNIO/Xpipe/src/net/network.c	/^static int process_network_mod(system_module_t *mod);$/;"	p	file:	signature:(system_module_t *mod)
+protocol_t	/home/skoo/YUNIO/Xpipe/src/net/protocol.h	/^} protocol_t;$/;"	t	typeref:struct:__anon10
+read_event_handler	/home/skoo/YUNIO/Xpipe/src/net/tcp_server.h	/^    event_handler_fp     read_event_handler;$/;"	m	struct:tcp_connection_s	access:public
+router_t	/home/skoo/YUNIO/Xpipe/src/net/router.h	/^} router_t;$/;"	t	typeref:struct:__anon8
+sa	/home/skoo/YUNIO/Xpipe/src/net/tcp_server.h	/^    xpe_sockaddr_in      sa;$/;"	m	struct:tcp_server_s	access:public
+server	/home/skoo/YUNIO/Xpipe/src/net/network.c	/^    tcp_server_t    *server;$/;"	m	struct:__anon6	file:	access:public
+server	/home/skoo/YUNIO/Xpipe/src/net/tcp_server.h	/^    tcp_server_t        *server;$/;"	m	struct:tcp_connection_s	access:public
+set	/home/skoo/YUNIO/Xpipe/src/conf_file.h	/^    cmd_set_fp  set;    $/;"	m	struct:__anon1	access:public
+set_nonblock	/home/skoo/YUNIO/Xpipe/src/xfile.c	/^int set_nonblock(int fd)$/;"	f	signature:(int fd)
+set_nonblock	/home/skoo/YUNIO/Xpipe/src/xfile.h	/^int set_nonblock(int fd);$/;"	p	signature:(int fd)
+set_string	/home/skoo/YUNIO/Xpipe/src/xstring.h	19;"	d
+setup_signals	/home/skoo/YUNIO/Xpipe/src/xpipe.c	/^static int setup_signals() $/;"	f	file:	signature:()
+setup_signals	/home/skoo/YUNIO/Xpipe/src/xpipe.c	/^static int setup_signals();$/;"	p	file:	signature:()
+sig_backtrace_handler	/home/skoo/YUNIO/Xpipe/src/xpipe.c	/^static void sig_backtrace_handler(int sig, siginfo_t *info, void *context)$/;"	f	file:	signature:(int sig, siginfo_t *info, void *context)
+sig_backtrace_handler	/home/skoo/YUNIO/Xpipe/src/xpipe.c	/^static void sig_backtrace_handler(int sig, siginfo_t *info, void *context);$/;"	p	file:	signature:(int sig, siginfo_t *info, void *context)
+sig_term_handler	/home/skoo/YUNIO/Xpipe/src/xpipe.c	/^static void sig_term_handler(int signo)$/;"	f	file:	signature:(int signo)
+sig_term_handler	/home/skoo/YUNIO/Xpipe/src/xpipe.c	/^static void sig_term_handler(int signo);$/;"	p	file:	signature:(int signo)
+size	/home/skoo/YUNIO/Xpipe/src/dynamic_array.h	/^    size_t       size;$/;"	m	struct:dynamic_array_s	access:public
+size	/home/skoo/YUNIO/Xpipe/src/net/net_event.h	/^    int                 size;$/;"	m	struct:net_event_driver_s	access:public
+sock_fd	/home/skoo/YUNIO/Xpipe/src/net/tcp_server.h	/^    int                  sock_fd;$/;"	m	struct:tcp_server_s	access:public
+stop	/home/skoo/YUNIO/Xpipe/src/system.h	/^    int          stop;$/;"	m	struct:__anon3	access:public
+string_null	/home/skoo/YUNIO/Xpipe/src/xstring.h	22;"	d
+string_t	/home/skoo/YUNIO/Xpipe/src/xstring.h	/^} string_t;$/;"	t	typeref:struct:__anon2
+sys_main_module	/home/skoo/YUNIO/Xpipe/src/xpipe.c	/^system_module_t sys_main_module = {$/;"	v
+sys_mod_padding	/home/skoo/YUNIO/Xpipe/src/mod_manager.h	33;"	d
+sys_modules	/home/skoo/YUNIO/Xpipe/src/mod_manager.c	/^system_module_t *sys_modules[] = {$/;"	v
+sys_modules_finish	/home/skoo/YUNIO/Xpipe/src/mod_manager.c	/^int sys_modules_finish(xpipe_resource_t *resource)$/;"	f	signature:(xpipe_resource_t *resource)
+sys_modules_finish	/home/skoo/YUNIO/Xpipe/src/mod_manager.h	/^int sys_modules_finish(xpipe_resource_t *resource);$/;"	p	signature:(xpipe_resource_t *resource)
+sys_modules_prepare	/home/skoo/YUNIO/Xpipe/src/mod_manager.c	/^int sys_modules_prepare(xpipe_resource_t *resource)$/;"	f	signature:(xpipe_resource_t *resource)
+sys_modules_prepare	/home/skoo/YUNIO/Xpipe/src/mod_manager.h	/^int sys_modules_prepare(xpipe_resource_t *resource);$/;"	p	signature:(xpipe_resource_t *resource)
+sys_net_module	/home/skoo/YUNIO/Xpipe/src/net/network.c	/^system_module_t sys_net_module = {$/;"	v
+sys_null_module	/home/skoo/YUNIO/Xpipe/src/mod_manager.h	34;"	d
+system_module_s	/home/skoo/YUNIO/Xpipe/src/mod_manager.h	/^struct system_module_s {$/;"	s
+system_module_s::commands	/home/skoo/YUNIO/Xpipe/src/mod_manager.h	/^    conf_command_t     *commands;    $/;"	m	struct:system_module_s	access:public
+system_module_s::create_conf	/home/skoo/YUNIO/Xpipe/src/mod_manager.h	/^    create_mod_conf_fp  create_conf;$/;"	m	struct:system_module_s	access:public
+system_module_s::finish_mod	/home/skoo/YUNIO/Xpipe/src/mod_manager.h	/^    finish_mod_fp       finish_mod;$/;"	m	struct:system_module_s	access:public
+system_module_s::index	/home/skoo/YUNIO/Xpipe/src/mod_manager.h	/^    int                 index;$/;"	m	struct:system_module_s	access:public
+system_module_s::init_mod	/home/skoo/YUNIO/Xpipe/src/mod_manager.h	/^    init_mod_fp         init_mod;$/;"	m	struct:system_module_s	access:public
+system_module_s::logger	/home/skoo/YUNIO/Xpipe/src/mod_manager.h	/^    logger_t           *logger;$/;"	m	struct:system_module_s	access:public
+system_module_s::mod_conf	/home/skoo/YUNIO/Xpipe/src/mod_manager.h	/^    void               *mod_conf;$/;"	m	struct:system_module_s	access:public
+system_module_s::mod_name	/home/skoo/YUNIO/Xpipe/src/mod_manager.h	/^    string_t            mod_name;$/;"	m	struct:system_module_s	access:public
+system_module_s::pool	/home/skoo/YUNIO/Xpipe/src/mod_manager.h	/^    mem_pool_t         *pool;$/;"	m	struct:system_module_s	access:public
+system_module_s::process_mod	/home/skoo/YUNIO/Xpipe/src/mod_manager.h	/^    process_mod_fp      process_mod;$/;"	m	struct:system_module_s	access:public
+system_module_t	/home/skoo/YUNIO/Xpipe/src/system.h	/^typedef struct system_module_s      system_module_t;$/;"	t	typeref:struct:system_module_s
+system_modules_init	/home/skoo/YUNIO/Xpipe/src/xpipe.c	/^static int system_modules_init(xpipe_resource_t *resource)$/;"	f	file:	signature:(xpipe_resource_t *resource)
+system_modules_init	/home/skoo/YUNIO/Xpipe/src/xpipe.c	/^static int system_modules_init(xpipe_resource_t *resource);$/;"	p	file:	signature:(xpipe_resource_t *resource)
+system_modules_working	/home/skoo/YUNIO/Xpipe/src/xpipe.c	/^static void system_modules_working(xpipe_resource_t *resource)$/;"	f	file:	signature:(xpipe_resource_t *resource)
+system_modules_working	/home/skoo/YUNIO/Xpipe/src/xpipe.c	/^static void system_modules_working(xpipe_resource_t *resource);$/;"	p	file:	signature:(xpipe_resource_t *resource)
+tcp_connection_s	/home/skoo/YUNIO/Xpipe/src/net/tcp_server.h	/^struct tcp_connection_s {$/;"	s
+tcp_connection_s::active_events	/home/skoo/YUNIO/Xpipe/src/net/tcp_server.h	/^    int                  active_events;$/;"	m	struct:tcp_connection_s	access:public
+tcp_connection_s::client_addr	/home/skoo/YUNIO/Xpipe/src/net/tcp_server.h	/^    string_t             client_addr;$/;"	m	struct:tcp_connection_s	access:public
+tcp_connection_s::client_port	/home/skoo/YUNIO/Xpipe/src/net/tcp_server.h	/^    int                  client_port;$/;"	m	struct:tcp_connection_s	access:public
+tcp_connection_s::close	/home/skoo/YUNIO/Xpipe/src/net/tcp_server.h	/^    int                  close;$/;"	m	struct:tcp_connection_s	access:public
+tcp_connection_s::conn_fd	/home/skoo/YUNIO/Xpipe/src/net/tcp_server.h	/^    int                  conn_fd;$/;"	m	struct:tcp_connection_s	access:public
+tcp_connection_s::dead_events	/home/skoo/YUNIO/Xpipe/src/net/tcp_server.h	/^    int                  dead_events;$/;"	m	struct:tcp_connection_s	access:public
+tcp_connection_s::events	/home/skoo/YUNIO/Xpipe/src/net/tcp_server.h	/^    int                  events;$/;"	m	struct:tcp_connection_s	access:public
+tcp_connection_s::is_listen	/home/skoo/YUNIO/Xpipe/src/net/tcp_server.h	/^    int                  is_listen;$/;"	m	struct:tcp_connection_s	access:public
+tcp_connection_s::logger	/home/skoo/YUNIO/Xpipe/src/net/tcp_server.h	/^    logger_t            *logger;$/;"	m	struct:tcp_connection_s	access:public
+tcp_connection_s::next	/home/skoo/YUNIO/Xpipe/src/net/tcp_server.h	/^    void                *next;$/;"	m	struct:tcp_connection_s	access:public
+tcp_connection_s::pool	/home/skoo/YUNIO/Xpipe/src/net/tcp_server.h	/^    mem_pool_t          *pool;$/;"	m	struct:tcp_connection_s	access:public
+tcp_connection_s::read_event_handler	/home/skoo/YUNIO/Xpipe/src/net/tcp_server.h	/^    event_handler_fp     read_event_handler;$/;"	m	struct:tcp_connection_s	access:public
+tcp_connection_s::server	/home/skoo/YUNIO/Xpipe/src/net/tcp_server.h	/^    tcp_server_t        *server;$/;"	m	struct:tcp_connection_s	access:public
+tcp_connection_s::write_event_handler	/home/skoo/YUNIO/Xpipe/src/net/tcp_server.h	/^    event_handler_fp     write_event_handler;$/;"	m	struct:tcp_connection_s	access:public
+tcp_connection_t	/home/skoo/YUNIO/Xpipe/src/system.h	/^typedef struct tcp_connection_s     tcp_connection_t;$/;"	t	typeref:struct:tcp_connection_s
+tcp_free_connection	/home/skoo/YUNIO/Xpipe/src/net/tcp_server.c	/^void tcp_free_connection(tcp_server_t *server, tcp_connection_t *c)$/;"	f	signature:(tcp_server_t *server, tcp_connection_t *c)
+tcp_free_connection	/home/skoo/YUNIO/Xpipe/src/net/tcp_server.h	/^void tcp_free_connection(tcp_server_t *server, tcp_connection_t *c);$/;"	p	signature:(tcp_server_t *server, tcp_connection_t *c)
+tcp_get_connection	/home/skoo/YUNIO/Xpipe/src/net/tcp_server.c	/^tcp_connection_t *tcp_get_connection(tcp_server_t *server, int fd)$/;"	f	signature:(tcp_server_t *server, int fd)
+tcp_get_connection	/home/skoo/YUNIO/Xpipe/src/net/tcp_server.h	/^tcp_connection_t *tcp_get_connection(tcp_server_t *server, int fd);$/;"	p	signature:(tcp_server_t *server, int fd)
+tcp_server_accept	/home/skoo/YUNIO/Xpipe/src/net/tcp_server.c	/^int tcp_server_accept(tcp_connection_t *conn)$/;"	f	signature:(tcp_connection_t *conn)
+tcp_server_accept	/home/skoo/YUNIO/Xpipe/src/net/tcp_server.h	/^int tcp_server_accept(tcp_connection_t *conn);$/;"	p	signature:(tcp_connection_t *conn)
+tcp_server_init	/home/skoo/YUNIO/Xpipe/src/net/tcp_server.c	/^int tcp_server_init(tcp_server_t *server)$/;"	f	signature:(tcp_server_t *server)
+tcp_server_init	/home/skoo/YUNIO/Xpipe/src/net/tcp_server.h	/^int tcp_server_init(tcp_server_t *server);$/;"	p	signature:(tcp_server_t *server)
+tcp_server_recv	/home/skoo/YUNIO/Xpipe/src/net/tcp_server.c	/^int tcp_server_recv(tcp_connection_t *conn)$/;"	f	signature:(tcp_connection_t *conn)
+tcp_server_recv	/home/skoo/YUNIO/Xpipe/src/net/tcp_server.h	/^int tcp_server_recv(tcp_connection_t *conn);$/;"	p	signature:(tcp_connection_t *conn)
+tcp_server_s	/home/skoo/YUNIO/Xpipe/src/net/tcp_server.h	/^struct tcp_server_s {$/;"	s
+tcp_server_s::connection_pool	/home/skoo/YUNIO/Xpipe/src/net/tcp_server.h	/^    tcp_connection_t    *connection_pool;$/;"	m	struct:tcp_server_s	access:public
+tcp_server_s::connections	/home/skoo/YUNIO/Xpipe/src/net/tcp_server.h	/^    uint_t               connections;$/;"	m	struct:tcp_server_s	access:public
+tcp_server_s::event_driver	/home/skoo/YUNIO/Xpipe/src/net/tcp_server.h	/^    net_event_driver_t  *event_driver;$/;"	m	struct:tcp_server_s	access:public
+tcp_server_s::logger	/home/skoo/YUNIO/Xpipe/src/net/tcp_server.h	/^    logger_t            *logger;$/;"	m	struct:tcp_server_s	access:public
+tcp_server_s::pool	/home/skoo/YUNIO/Xpipe/src/net/tcp_server.h	/^    mem_pool_t          *pool;$/;"	m	struct:tcp_server_s	access:public
+tcp_server_s::port	/home/skoo/YUNIO/Xpipe/src/net/tcp_server.h	/^    uint_t               port;$/;"	m	struct:tcp_server_s	access:public
+tcp_server_s::sa	/home/skoo/YUNIO/Xpipe/src/net/tcp_server.h	/^    xpe_sockaddr_in      sa;$/;"	m	struct:tcp_server_s	access:public
+tcp_server_s::sock_fd	/home/skoo/YUNIO/Xpipe/src/net/tcp_server.h	/^    int                  sock_fd;$/;"	m	struct:tcp_server_s	access:public
+tcp_server_send	/home/skoo/YUNIO/Xpipe/src/net/tcp_server.c	/^int tcp_server_send(tcp_connection_t *conn)$/;"	f	signature:(tcp_connection_t *conn)
+tcp_server_send	/home/skoo/YUNIO/Xpipe/src/net/tcp_server.h	/^int tcp_server_send(tcp_connection_t *conn);$/;"	p	signature:(tcp_connection_t *conn)
+tcp_server_t	/home/skoo/YUNIO/Xpipe/src/net/tcp_server.h	/^typedef struct tcp_server_s tcp_server_t;$/;"	t	typeref:struct:tcp_server_s
+tcp_server_t	/home/skoo/YUNIO/Xpipe/src/system.h	/^typedef struct tcp_server_s         tcp_server_t;$/;"	t	typeref:struct:tcp_server_s
+total	/home/skoo/YUNIO/Xpipe/src/mem_pool.h	/^    size_t            total;$/;"	m	struct:mem_pool_s	access:public
+uint_t	/home/skoo/YUNIO/Xpipe/src/system.h	/^typedef unsigned int            uint_t;$/;"	t
+write_event_handler	/home/skoo/YUNIO/Xpipe/src/net/tcp_server.h	/^    event_handler_fp     write_event_handler;$/;"	m	struct:tcp_connection_s	access:public
+write_stdout	/home/skoo/YUNIO/Xpipe/src/xfile.h	35;"	d
+x_atoi	/home/skoo/YUNIO/Xpipe/src/xstring.h	36;"	d
+x_memcpy_n	/home/skoo/YUNIO/Xpipe/src/xstring.h	31;"	d
+x_strcmp	/home/skoo/YUNIO/Xpipe/src/xstring.h	34;"	d
+x_strcpy	/home/skoo/YUNIO/Xpipe/src/xstring.h	33;"	d
+x_strlen	/home/skoo/YUNIO/Xpipe/src/xstring.h	35;"	d
+x_tolower	/home/skoo/YUNIO/Xpipe/src/xstring.h	24;"	d
+x_toupper	/home/skoo/YUNIO/Xpipe/src/xstring.h	25;"	d
+xpe_sockaddr	/home/skoo/YUNIO/Xpipe/src/net/tcp_server.h	/^typedef struct sockaddr xpe_sockaddr;$/;"	t	typeref:struct:sockaddr
+xpe_sockaddr_in	/home/skoo/YUNIO/Xpipe/src/net/tcp_server.h	/^typedef struct sockaddr_in xpe_sockaddr_in;$/;"	t	typeref:struct:sockaddr_in
+xpipe_conf_file_path	/home/skoo/YUNIO/Xpipe/src/conf_file.h	11;"	d
+xpipe_main_mod_conf_t	/home/skoo/YUNIO/Xpipe/src/xpipe.c	/^} xpipe_main_mod_conf_t;$/;"	t	typeref:struct:__anon4	file:
+xpipe_net_mod_conf_t	/home/skoo/YUNIO/Xpipe/src/net/network.c	/^} xpipe_net_mod_conf_t;$/;"	t	typeref:struct:__anon7	file:
+xpipe_resource	/home/skoo/YUNIO/Xpipe/src/xpipe.c	/^xpipe_resource_t xpipe_resource;$/;"	v
+xpipe_resource_t	/home/skoo/YUNIO/Xpipe/src/system.h	/^} xpipe_resource_t;$/;"	t	typeref:struct:__anon3
+xstring	/home/skoo/YUNIO/Xpipe/src/xstring.h	18;"	d

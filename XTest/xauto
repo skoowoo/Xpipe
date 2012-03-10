@@ -1,0 +1,83 @@
+#!/bin/sh
+
+# Copyright (c) Xiaowei Wu
+
+
+CASES_CONF=$1
+
+CONFIG="config.h"
+TMP_FILE="/tmp/.xtest.src"
+
+# begin of config.h
+cat << END                      > $CONFIG
+/**
+ * Copyright (c) Xiaowei Wu
+ */
+
+#ifndef __CONFIG_H__
+#define __CONFIG_H__
+
+
+#include "core/xtest.h"
+
+
+END
+
+if [ -f $TMP_FILE ] ; then
+    > $TMP_FILE
+fi
+
+cat $CASES_CONF | while read line
+do
+    unit_name=`echo $line | sed s/[[:space:]]//g`
+
+cat << END                      >> $CONFIG
+extern unit_cases_t $unit_name;
+END
+
+# generate codes
+echo "uc_$unit_name.c " >> $TMP_FILE
+if [ ! -f "uc_$unit_name.c" ] ; then
+. core/gen_code
+fi
+done
+
+## begin of test_units array
+cat << END                      >> $CONFIG
+
+unit_cases_t* test_units[] = {
+END
+    
+
+cat $CASES_CONF | while read line
+do
+    unit_name=`echo $line | sed s/[[:space:]]//g`
+
+cat << END                      >> $CONFIG 
+    &$unit_name,
+END
+done
+
+
+cat << END                      >> $CONFIG
+    NULL 
+END
+
+cat << END                      >> $CONFIG
+};
+
+
+END
+
+
+# end of config.h
+cat << END                      >> $CONFIG
+#endif /* __CONFIG_H__ */ 
+END
+
+# ==================== Makefile ====================
+UC_SRC=`cat $TMP_FILE`
+# . core/gen_makefile
+
+
+
